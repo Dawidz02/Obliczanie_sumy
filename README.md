@@ -1,0 +1,1 @@
+# Obliczanie_sumy
